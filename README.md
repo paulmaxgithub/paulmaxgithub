@@ -6,7 +6,10 @@
 
 <div style="display:flex;justify-content:center;">
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/paulmax_iOS?logo=twitter&style=for-the-badge)](https://twitter.com/paulmax_iOS)
+  [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/pavelmaximenko/)
+  [![Stackoverflow Profile](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11359553/paulmax)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/paulmax_iOS?color=yellow&logo=twitter&logoColor=yellow&style=for-the-badge)](https://twitter.com/paulmax_iOS)
 
 </div>
 
