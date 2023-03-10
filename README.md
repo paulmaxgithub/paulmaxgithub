@@ -5,7 +5,9 @@
 ### 💼 **[My GitHub Portfolio](https://github.com/paulmaxgithub/iOS_Developer_Portfolio)**
 
 <div style="display:flex;justify-content:center;">
+  
 [![Twitter Follow](https://img.shields.io/twitter/follow/paulmax_iOS?logo=twitter&style=for-the-badge)](https://twitter.com/paulmax_iOS)
+
 </div>
 
 
