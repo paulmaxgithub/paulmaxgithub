@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Pavel
+
+**` iOS Developer, who loves to travel 🌎 and listen to music 🎧**
+
+### 💼 **[My GitHub Portfolio](https://github.com/paulmaxgithub/iOS_Developer_Portfolio)**
 
 <!--
 **paulmaxgithub/paulmaxgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
