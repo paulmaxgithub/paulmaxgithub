@@ -16,11 +16,10 @@
 ---
 
 ### About
-- 🍏 iOS developer with 5+ years of experience in building mobile applications.
-- 🏛 The technology stack includes Swift as the main programming language and popular iOS frameworks.
-- 📱 A clear understanding of mobile development and project architecture, as well as basic Agile methodologies.
-- 🙏🏽 Experienced in communicating directly with Customers. 
-- 🫶 BIG Google & Stack Overflow & ChatGPT fan 🤓
+– 👨🏼‍💻 5+ years of experience in IT industry
+– 📱 Mobile Development / Project Architecture, Agile Methodologies
+– 🙏🏽 Experienced in communicating directly with Customers
+– 🫶 BIG Google & Stack Overflow & ChatGPT fan 🤓
 <!--
 **paulmaxgithub/paulmaxgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
