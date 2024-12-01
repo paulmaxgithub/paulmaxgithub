@@ -16,10 +16,11 @@
 ---
 
 ### About
-– 👨🏼‍💻 5+ years of experience in IT industry
-– 📱 Mobile Development / Project Architecture, Agile Methodologies
-– 🙏🏽 Experienced in communicating directly with Customers
-– 🫶 BIG Google & Stack Overflow & ChatGPT fan 🤓
+- 👨🏼‍💻 5+ years of experience in IT industry
+- 📱 Mobile Development / Project Architecture, Agile Methodologies
+- 🙏🏽 Experienced in communicating directly with Customers
+- 🫶 BIG Google & Stack Overflow & ChatGPT fan 🤓
+
 <!--
 **paulmaxgithub/paulmaxgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
