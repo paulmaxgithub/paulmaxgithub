@@ -2,8 +2,6 @@
 
 **`🔍 QA Automation Engineer | Building Scalable Test Frameworks | Passionate about Quality & Efficiency 🚀`**
 
-### 💼 **[My GitHub Portfolio](https://github.com/paulmaxgithub/QA_Automation_Portfolio)**
-
 ---
 
 ### 🧠 About Me
