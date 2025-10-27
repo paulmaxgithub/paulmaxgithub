@@ -1,37 +1,68 @@
-### Hi there 👋, I'm Pavel
+### Hi there 👋, I'm Pavel  
 
-**` iOS Developer, who loves to travel 🌎 and listen to music 🎧`**
+**`🔍 QA Automation Engineer | Building Scalable Test Frameworks | Passionate about Quality & Efficiency 🚀`**
 
-### 💼 **[My GitHub Portfolio](https://github.com/paulmaxgithub/iOS_Developer_Portfolio)**
-
-<div style="display:flex;justify-content:center;">
-  
-  [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/pavelmaximenko/)
-  [![Stackoverflow Profile](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11359553/paulmax)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/paulmax_iOS?color=yellow&logo=twitter&logoColor=yellow&style=for-the-badge)](https://twitter.com/paulmax_iOS)
-
-</div>
+### 💼 **[My GitHub Portfolio](https://github.com/paulmaxgithub/QA_Automation_Portfolio)**
 
 ---
 
-### About
-- 👨🏼‍💻 5+ years of experience in IT industry
-- 📱 Mobile Development / Project Architecture, Agile Methodologies
-- 🙏🏽 Experienced in communicating directly with Customers
-- 🫶 BIG Google & Stack Overflow & ChatGPT fan 🤓
+### 🧠 About Me
+- 👨🏼‍💻 5+ years of experience in Quality Assurance and Test Automation  
+- 🤝 Strong focus on **collaboration and Agile delivery**  
+- 🧩 Passionate about **automation architecture**, **CI/CD integration**, and **test optimization**  
+- 💬 Known for **bridging QA and DevOps** practices  
+- 🫶 Big fan of **Google, Stack Overflow & ChatGPT 🤓**
 
-<!--
-**paulmaxgithub/paulmaxgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧰 Core Competencies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Framework Architecture:** Designing modular, scalable frameworks (Page Object Model, layered architecture) for **UI** and **API** testing  
+- **API/Backend Testing:** Deep validation with **REST Assured**, **Postman**, and database queries in **MongoDB** / **SQL Server**  
+- **CI/CD Integration:** Embedding automation suites into **Jenkins** pipelines and running in **Docker** for stable environments  
+- **Performance Testing:** Using **JMeter** and profiling tools for response and stability analysis  
+- **Cross-Stack Experience:** Hands-on with **Cypress**, **Playwright**, and **XCTest** for frontend and mobile testing  
+
+---
+
+### 🚀 Featured Project: International Live Events Ticketing Platform  
+
+- 🧩 **Automation Framework:** Developed a robust Java-based automation framework using **Selenium**, **TestNG**, and **Maven**  
+- 🔗 **Full-Stack Testing:** Covered **UI**, **API**, and **integration** layers with REST Assured and Postman  
+- 🧮 **Data Verification:** Conducted backend validation via **SQL** and **NoSQL** databases  
+- ⚙️ **DevOps Integration:** Automated pipelines via **Jenkins** + **Docker**, reducing regression cycles from days to ~30–40 minutes  
+- 📊 **Reporting:** Monitored metrics, logs, and execution outcomes, ensuring transparent QA visibility  
+
+---
+
+### 🧑🏻‍💻 Tech Stack
+
+**Languages & Frameworks:**  
+Java, Selenium WebDriver, REST Assured, TestNG, Maven, Postman, Cypress, Playwright, Swift/XCTest  
+
+**CI/CD & Tools:**  
+Jenkins, Docker, GitLab CI, AWS, JMeter, Jira, Confluence  
+
+**Databases:**  
+MongoDB, SQL Server  
+
+**Methodologies:**  
+Scrum, Scrumban, Agile, BDD/TDD  
+
+---
+
+### 💬 Working Style
+- 🔍 Detail-oriented, focusing on **stable, maintainable automation**  
+- 💡 Problem-solver with strong debugging skills (flaky tests, environment instability)  
+- 🔄 Continuous learner — currently exploring **cloud-based and security testing**  
+- 🤝 Believes in **quality as a shared responsibility**  
+
+---
+
+### ⚡ Fun Fact
+Even my tests follow the **"Fail Fast, Learn Faster"** philosophy!  
+
+---
+
+**📫 Let’s connect:**  
+Feel free to reach out if you’d like to discuss QA strategies, automation frameworks, or collaboration opportunities!  
