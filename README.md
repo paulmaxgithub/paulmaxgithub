@@ -5,7 +5,7 @@
 ---
 
 ### 🧠 About Me
-- 👨🏼‍💻 5+ years of experience in Quality Assurance and Test Automation  
+- 👨🏼‍💻 4+ years of experience in Quality Assurance and Test Automation  
 - 🤝 Strong focus on **collaboration and Agile delivery**  
 - 🧩 Passionate about **automation architecture**, **CI/CD integration**, and **test optimization**  
 - 💬 Known for **bridging QA and DevOps** practices  
